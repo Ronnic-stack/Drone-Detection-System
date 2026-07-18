@@ -1,0 +1,12 @@
+names:
+- UAV
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: drone-detection-hwfsv-rlapn
+  url: https://universe.roboflow.com/ronnicekka4-gmail-com/drone-detection-hwfsv-rlapn/dataset/1
+  version: 1
+  workspace: ronnicekka4-gmail-com
+test: ../test/images
+train: ../train/images
+val: ../valid/images
